@@ -3,10 +3,7 @@ SWIG wrapper for libKeyFinder
 
 A SWIG based Python wrapper around [libKeyFinder](https://github.com/ibsh/libKeyFinder).
 
-First, you will need to [install libKeyFinder](https://github.com/ibsh/libKeyFinder#installation), additionally install the libKeyFinder headers by running
-```
-$ make install_headers
-```
+First, you will need to [install libKeyFinder](https://github.com/ibsh/libKeyFinder#installation).
 
 Then run
 ```
